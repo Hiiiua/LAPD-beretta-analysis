@@ -1,0 +1,3 @@
+[submodule "LAPD-beretta-scans"]
+	path = LAPD-beretta-scans
+	url = git@github.com:heike/LAPD-beretta-scans.git
